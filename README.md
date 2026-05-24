@@ -29,19 +29,27 @@
 ### 📊 Stats & Competitive Programming
 
 <div align="center">
-  
-  [![Codeforces](https://img.shields.io/badge/Codeforces-Dark__ZID-1f8acb?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Dark_ZID)
-  
-  <br><br>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=ziad-yaseen&show_icons=true&theme=radical&hide_border=true" alt="Ziad's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ziad-yaseen&theme=radical&hide_border=true" alt="Ziad's Streak" width="48%" />
+  <a href="https://codeforces.com/profile/Dark_ZID">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Dark_ZID&theme=radical&disable_animations=true" alt="Codeforces Stats" />
+  </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziad-yaseen&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  ![Ziad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ziad-yaseen&show_icons=true&theme=radical&hide_border=true)
+</div>
+
+<br>
+
+<div align="center">
+  ![Ziad's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ziad-yaseen&theme=radical&hide_border=true)
+</div>
+
+<br>
+
+<div align="center">
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ziad-yaseen&layout=compact&theme=radical&hide_border=true)
 </div>
 
 ---
