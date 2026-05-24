@@ -9,11 +9,9 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 1st-year student at **South Valley National University (SVNU)**.
 - 💻 Building cross-platform mobile applications using **Flutter & Dart**.
 - 🧠 Competitive Programmer (C++), active on Codeforces and preparing for **ICPC 2026**.
 - 🚀 Currently developing **Elmobarmej** (Educational Platform).
-- 📱 Creator of **Toku** (Modular Language Learning App).
 - 🎨 I enjoy customizing development environments and using tools like Figma & Canva for UI/UX.
 
 ---
