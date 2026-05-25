@@ -103,13 +103,13 @@
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:ziadyaseen.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
   </a>
-  <a href="https://wa.me/YOUR_PHONE_NUMBER">
+  <a href="https://wa.me/+201080173273">
     <img src="https://img.shields.io/badge/WhatsApp-333333?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE/">
+  <a href="https://www.linkedin.com/in/ziad-yaseen/">
     <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
   </a>
   <a href="https://www.facebook.com/YOUR_FACEBOOK_PROFILE/">
