@@ -5,6 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=ziad-yaseen&label=Profile%20views&color=0e75b6&style=flat" alt="ziad-yaseen" />
 </p>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&width=435&lines=Practicing+Problem+Solving;+Competitive+Programmer;+SVNU+Student;FCAI+Student)](https://git.io/typing-svg)
+
 ---
 
 ### 👨‍💻 About Me
