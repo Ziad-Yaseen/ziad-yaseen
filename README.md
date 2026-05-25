@@ -46,21 +46,33 @@
 
 <br>
 
-<div align="center">
-  ![Ziad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ziad-yaseen&show_icons=true&theme=radical&hide_border=true)
-</div>
 
-<br>
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=A7Md3BD0&theme=radical&hide_border=true" alt="Ahmed's GitHub stats" />
+</p>
 
-<div align="center">
-  ![Ziad's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ziad-yaseen&theme=radical&hide_border=true)
-</div>
+### 🧩 Codeforces Stats
+<p align="center">
+  <a href="https://codeforces.com/profile/a7md3bdo">
+    <img 
+      src="https://codeforces-stats-jet.vercel.app/api/card?username=a7md3bdo&theme=dark" 
+      alt="Ahmed's Codeforces Stats" 
+    />
+  </a>
+</p>
 
-<br>
+### 📈 Codeforces Rating Graph
+<p align="center">
+  <a href="https://codeforces.com/profile/a7md3bdo">
+    <img 
+      src="https://codeforces-stats-jet.vercel.app/api/graph?username=a7md3bdo&theme=dark" 
+      alt="Ahmed's Codeforces Rating Graph" 
+    />
+  </a>
+</p>
 
-<div align="center">
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ziad-yaseen&layout=compact&theme=radical&hide_border=true)
-</div>
+ 
 
 ---
 
