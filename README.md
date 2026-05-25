@@ -97,3 +97,22 @@
 ### ⚡ Fun Facts
 - 🖥️ I love tweaking my OS with custom macOS themes and icons.
 - 🎮 When I'm not coding or solving problems, you might find me playing Yu-Gi-Oh! Master Duel.
+
+---
+
+- ### 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+  </a>
+  <a href="https://wa.me/YOUR_PHONE_NUMBER">
+    <img src="https://img.shields.io/badge/WhatsApp-333333?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp"/>
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE/">
+    <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/YOUR_FACEBOOK_PROFILE/">
+    <img src="https://img.shields.io/badge/Facebook-333333?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook"/>
+  </a>
+</p>
