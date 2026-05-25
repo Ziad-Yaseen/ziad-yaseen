@@ -15,11 +15,15 @@
 
 ### 👨‍💻 About Me
 
+- 🎓 First-level student at the **Faculty of Computers and Artificial Intelligence**.
+- 📱 Learning **Flutter** for mobile application development.
+- 🧩 Actively practicing competitive programming and solving problems on **Codeforces** and in university contests.
 - 💻 Building cross-platform mobile applications using **Flutter & Dart**.
 - 🧠 Competitive Programmer (C++), active on Codeforces and preparing for **ICPC 2026**.
 - 🚀 Currently developing **Elmobarmej** (Educational Platform).
 - 🎨 I enjoy customizing development environments and using tools like Figma & Canva for UI/UX.
-
+- 🎯 **Goal:** Build a strong programming foundation to become a professional **Flutter App Developer**.
+- 
 ---
 
 ### 🛠️ Tech Stack & Tools
