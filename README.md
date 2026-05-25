@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,c,git,github,androidstudio,visualstudio,clion,figma" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,c,python,java,git,github,androidstudio,visualstudio,clion,figma,illustrator,linux,windows" />
   </a>
 </p>
 
