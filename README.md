@@ -36,6 +36,18 @@
 
 ---
 
+### 🚀 Key Projects
+
+- **Elmobarmej (Educational Platform) | Flutter, Dart:** Currently developing a comprehensive educational application focusing on scalable architecture, state management, and a highly customized user interface.
+- **Toku Learning App | Flutter, Dart:** Built an interactive language learning application for English and Japanese vocabulary, featuring integrated audio pronunciation and a clean modular architecture.
+- **Modern UI Showcases | Flutter:** Designed a series of visually striking, responsive front-end interfaces to solidify UI/UX principles. This includes a **Mini NFT Marketplace** (utilizing Glassmorphism), a **Finance App UI**, and a **Digital Business Card Profile**.
+- **BMI Calculator | Flutter, Dart:** Developed a fully functional mobile application for calculating Body Mass Index with a smooth, user-friendly interface.
+- **Tunes App | Flutter, Dart:** Created an interactive musical application featuring responsive playable buttons that function as a mini digital piano.
+- **Active Developments (Electric Praise & Quotes) | Flutter, Dart:** Currently engineering a digital tasbeeh (counter) application and an interactive daily quotes app, focusing on seamless user interactions.
+- **Ultimate Subtitle Shifter | Upcoming Tool:** Planning the architecture for a utility tool designed to synchronize, manage, and shift subtitle files efficiently.
+
+---
+
 ### 📊 Stats & Competitive Programming
 
 <div align="center">
