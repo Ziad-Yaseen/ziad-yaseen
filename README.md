@@ -46,28 +46,34 @@
 
 <br>
 
+---
+
 
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=A7Md3BD0&theme=radical&hide_border=true" alt="Ahmed's GitHub stats" />
 </p>
 
+---
+
 ### 🧩 Codeforces Stats
 <p align="center">
-  <a href="https://codeforces.com/profile/a7md3bdo">
+  <a href="https://codeforces.com/profile/Dark_ZID">
     <img 
-      src="https://codeforces-stats-jet.vercel.app/api/card?username=a7md3bdo&theme=dark" 
-      alt="Ahmed's Codeforces Stats" 
+      src="https://codeforces-stats-jet.vercel.app/api/card?username=Dark_ZID&theme=dark" 
+      alt="Ziad's Codeforces States." 
     />
   </a>
 </p>
 
+---
+
 ### 📈 Codeforces Rating Graph
 <p align="center">
-  <a href="https://codeforces.com/profile/a7md3bdo">
+  <a href="https://codeforces.com/profile/Dark_ZID">
     <img 
-      src="https://codeforces-stats-jet.vercel.app/api/graph?username=a7md3bdo&theme=dark" 
-      alt="Ahmed's Codeforces Rating Graph" 
+      src="https://codeforces-stats-jet.vercel.app/api/graph?username=Dark_ZID&theme=dark" 
+      alt="Ziad's Codeforces Rating Graph." 
     />
   </a>
 </p>
