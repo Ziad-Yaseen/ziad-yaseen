@@ -23,7 +23,7 @@
 - 🚀 Currently developing **Elmobarmej** (Educational Platform).
 - 🎨 I enjoy customizing development environments and using tools like Figma & Canva for UI/UX.
 - 🎯 **Goal:** Build a strong programming foundation to become a professional **Flutter App Developer**.
-- 
+  
 ---
 
 ### 🛠️ Tech Stack & Tools
