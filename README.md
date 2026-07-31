@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 First-level student at the **Faculty of Computers and Artificial Intelligence**.
+- 🎓 Secound-level student at the **Faculty of Computers and Artificial Intelligence**.
 - 📱 Learning **Flutter** for mobile application development.
 - 🧩 Actively practicing competitive programming and solving problems on **Codeforces** and in university contests.
 - 💻 Building cross-platform mobile applications using **Flutter & Dart**.
