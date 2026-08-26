@@ -73,7 +73,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ziad-yaseen&theme=radical&hide_border=true" alt="Ziad's GitHub streak" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ziad-yaseen&show_icons=true&theme=radical&hide_border=true" alt="Ziad's GitHub Stats" height="170" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=ziad-yaseen&show_icons=true&theme=radical&hide_border=true" alt="Ziad's GitHub Stats" height="170" /> -->
 </div>
 
 ---
