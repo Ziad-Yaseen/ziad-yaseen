@@ -79,16 +79,16 @@
 ---
 
 ### 🏆 Competitive Programming
-
-<div align="center">
+**🧩 Codeforces Stats**
+<p align="center">
   <!-- Codeforces Stats -->
   <a href="https://codeforces.com/profile/Dark_ZID">
-    <img src="https://codeforces-stats-jet.vercel.app/api/card?username=Dark_ZID&theme=dark" alt="Ziad's Codeforces Stats" width="400" />
+    <img src="https://codeforces-stats-jet.vercel.app/api/card?username=Dark_ZID&theme=dark" alt="Ziad's Codeforces Stats"/>
   </a>
   <a href="https://codeforces.com/profile/Dark_ZID">
     <img src="https://codeforces-stats-jet.vercel.app/api/graph?username=Dark_ZID&theme=dark" alt="Ziad's Codeforces Rating Graph" width="400" />
   </a>
-</div>
+</p>
 <br>
 <div align="center">
   <!-- LeetCode Stats -->
