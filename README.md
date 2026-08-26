@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ziad Yaseen</h1>
-<h3 align="center">📱 Mobile App Developer (Flutter) | 🏆 Competitive Programmer | 🎓 FCAI Student</h3>
+<h3 align="center">📱 Mobile App Developer (Flutter) | 🏆 Competitive Programmer | 🎓 CS Undergrad at SVNU FCAI</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ziad-yaseen&label=Profile%20views&color=0e75b6&style=flat" alt="ziad-yaseen" />
