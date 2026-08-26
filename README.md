@@ -94,6 +94,8 @@
   </a>
   </p>
 <br>
+
+**📈 Leetcode profile**
 <div align="center">
   <!-- LeetCode Stats -->
   <a href="https://leetcode.com/Ziad_Yaseen/">
