@@ -14,11 +14,14 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Education:** Second-year student at the **Faculty of Computers and Artificial Intelligence (FCAI)** / SVNU.
-- 💻 **Development:** Passionate about building robust, cross-platform mobile applications using **Flutter & Dart** with a strong focus on clean architecture and smooth UI/UX.
-- 🏆 **Competitive Programming:** Active problem solver on **Codeforces** and **LeetCode**. Currently training hard and preparing for **ICPC 2026**.
-- 🚀 **Current Focus:** Developing **Elmobarmej** (an educational platform) and expanding my software engineering fundamentals.
-- 🎯 **Goal:** To become a top-tier Software Engineer and build scalable applications that impact users globally.
+- 🎓 Secound-level student at the **Faculty of Computers and Artificial Intelligence**.
+- 📱 Learning **Flutter** for mobile application development.
+- 🧩 Actively practicing competitive programming and solving problems on **Codeforces** , **LeetCode** and in university contests.
+- 💻 Building cross-platform mobile applications using **Flutter & Dart**.
+- 🧠 Competitive Programmer (C++), active on Codeforces and preparing for **ICPC 2026**.
+- 🚀 Currently developing **Elmobarmej** (Educational Platform).
+- 🎨 I enjoy customizing development environments and using tools like Figma & Canva for UI/UX.
+- 🎯 **Goal:** Build a strong programming foundation to become a professional **Flutter App Developer**.
   
 ---
 
