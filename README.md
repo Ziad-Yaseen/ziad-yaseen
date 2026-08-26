@@ -27,6 +27,12 @@
 
 ### 🛠️ Tech Stack & Tools
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,c,python,java,git,github,androidstudio,visualstudio,clion,figma,illustrator,linux,windows" />
+  </a>
+</p>
+
 **Languages:**
 <p align="left">
   <a href="https://skillicons.dev">
