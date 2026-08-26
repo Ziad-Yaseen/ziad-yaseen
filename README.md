@@ -85,10 +85,14 @@
   <a href="https://codeforces.com/profile/Dark_ZID">
     <img src="https://codeforces-stats-jet.vercel.app/api/card?username=Dark_ZID&theme=dark" alt="Ziad's Codeforces Stats"/>
   </a>
-  <a href="https://codeforces.com/profile/Dark_ZID">
-    <img src="https://codeforces-stats-jet.vercel.app/api/graph?username=Dark_ZID&theme=dark" alt="Ziad's Codeforces Rating Graph" width="400" />
-  </a>
 </p>
+
+**📈 Codeforces Rating Graph**
+<p align="center">
+<a href="https://codeforces.com/profile/Dark_ZID">
+    <img src="https://codeforces-stats-jet.vercel.app/api/graph?username=Dark_ZID&theme=dark" alt="Ziad's Codeforces Rating Graph" />
+  </a>
+  </p>
 <br>
 <div align="center">
   <!-- LeetCode Stats -->
