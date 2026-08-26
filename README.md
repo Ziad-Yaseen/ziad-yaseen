@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ziad Yaseen</h1>
-<h3 align="center">📱 Flutter Developer | 🏆 Competitive Programmer | 🎓 SVNU Student</h3>
+<h3 align="center">📱 Mobile App Developer (Flutter) | 🏆 Competitive Programmer | 🎓 FCAI Student</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ziad-yaseen&label=Profile%20views&color=0e75b6&style=flat" alt="ziad-yaseen" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&center=true&vCenter=true&width=435&lines=Ziad+Yaseen;+Flutter+Developer+;+SVNU+Student;FCAI+Student;+Competitive+Programmer;Practicing+Problem+Solving" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=1000&center=true&vCenter=true&width=500&lines=Ziad+Yaseen;Mobile+App+Developer+(Flutter);Competitive+Programmer+(C%2B%2B);Always+Learning+%26+Building" alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,92 +15,94 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Secound-level student at the **Faculty of Computers and Artificial Intelligence**.
-- 📱 Learning **Flutter** for mobile application development.
-- 🧩 Actively practicing competitive programming and solving problems on **Codeforces** and in university contests.
-- 💻 Building cross-platform mobile applications using **Flutter & Dart**.
-- 🧠 Competitive Programmer (C++), active on Codeforces and preparing for **ICPC 2026**.
-- 🚀 Currently developing **Elmobarmej** (Educational Platform).
-- 🎨 I enjoy customizing development environments and using tools like Figma & Canva for UI/UX.
-- 🎯 **Goal:** Build a strong programming foundation to become a professional **Flutter App Developer**.
+- 🎓 **Education:** Second-year student at the **Faculty of Computers and Artificial Intelligence (FCAI)** / SVNU.
+- 💻 **Development:** Passionate about building robust, cross-platform mobile applications using **Flutter & Dart** with a strong focus on clean architecture and smooth UI/UX.
+- 🏆 **Competitive Programming:** Active problem solver on **Codeforces** and **LeetCode**. Currently training hard and preparing for **ICPC 2026**.
+- 🚀 **Current Focus:** Developing **Elmobarmej** (an educational platform) and expanding my software engineering fundamentals.
+- 🎯 **Goal:** To become a top-tier Software Engineer and build scalable applications that impact users globally.
   
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-<p align="center">
+**Languages:**
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,c,python,java,git,github,androidstudio,visualstudio,clion,figma,illustrator,linux,windows" />
+    <img src="https://skillicons.dev/icons?i=dart,cpp,c,python,java" alt="Languages" />
   </a>
 </p>
+
+**Frameworks & Technologies:**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,androidstudio" alt="Frameworks" />
+  </a>
+</p>
+
+**Tools & Design:**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,visualstudio,clion,figma,illustrator,linux,windows" alt="Tools" />
+  </a>
+</p>
+
+---
+
+### 🌱 Currently Learning & Exploring
+- Advanced State Management in Flutter (Bloc/Cubit, Riverpod).
+- Clean Architecture & SOLID Principles.
+- Advanced Graph Algorithms and Dynamic Programming for CP.
 
 ---
 
 ### 🚀 Key Projects
 
-- **Elmobarmej (Educational Platform) | Flutter, Dart:** Currently developing a comprehensive educational application focusing on scalable architecture, state management, and a highly customized user interface.
-- **Toku Learning App | Flutter, Dart:** Built an interactive language learning application for English and Japanese vocabulary, featuring integrated audio pronunciation and a clean modular architecture.
-- **Modern UI Showcases | Flutter:** Designed a series of visually striking, responsive front-end interfaces to solidify UI/UX principles. This includes a **Mini NFT Marketplace** (utilizing Glassmorphism), a **Finance App UI**, and a **Digital Business Card Profile**.
-- **BMI Calculator | Flutter, Dart:** Developed a fully functional mobile application for calculating Body Mass Index with a smooth, user-friendly interface.
-- **Tunes App | Flutter, Dart:** Created an interactive musical application featuring responsive playable buttons that function as a mini digital piano.
-- **Active Developments (Electric Praise & Quotes) | Flutter, Dart:** Currently engineering a digital tasbeeh (counter) application and an interactive daily quotes app, focusing on seamless user interactions.
-- **Ultimate Subtitle Shifter | Upcoming Tool:** Planning the architecture for a utility tool designed to synchronize, manage, and shift subtitle files efficiently.
+- 🎓 **Elmobarmej (Educational Platform) | Flutter, Dart:** Developing a comprehensive educational application focusing on scalable architecture, state management, and a highly customized user interface.
+- 🗣️ **Toku Learning App | Flutter, Dart:** Built an interactive language learning application for English and Japanese vocabulary, featuring integrated audio pronunciation and a clean modular architecture.
+- 🎨 **Modern UI Showcases | Flutter:** Designed visually striking, responsive front-end interfaces including a **Mini NFT Marketplace** (Glassmorphism), a **Finance App UI**, and a **Digital Business Card Profile**.
+- 🧮 **BMI Calculator | Flutter, Dart:** Developed a fully functional mobile application for calculating Body Mass Index with a smooth, user-friendly interface.
+- 🎹 **Tunes App | Flutter, Dart:** Created an interactive musical application featuring responsive playable buttons that function as a mini digital piano.
+- ⏳ **Active Developments (Electric Praise & Quotes) | Flutter, Dart:** Engineering a digital tasbeeh (counter) application and an interactive daily quotes app, focusing on seamless user interactions.
 
 ---
-
-### 📊 Stats & Competitive Programming
-
-<div align="center">
-  <a href="https://codeforces.com/profile/Dark_ZID">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Dark_ZID&theme=radical&disable_animations=true" alt="Codeforces Stats" />
-  </a>
-</div>
-
-<br>
-
----
-
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ziad-yaseen&theme=radical&hide_border=true" alt="Ahmed's GitHub stats" />
-</p>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ziad-yaseen&theme=radical&hide_border=true" alt="Ziad's GitHub streak" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ziad-yaseen&show_icons=true&theme=radical&hide_border=true" alt="Ziad's GitHub Stats" height="170" />
+</div>
 
 ---
 
-### 🧩 Codeforces Stats
-<p align="center">
+### 🏆 Competitive Programming
+
+<div align="center">
+  <!-- Codeforces Stats -->
   <a href="https://codeforces.com/profile/Dark_ZID">
-    <img 
-      src="https://codeforces-stats-jet.vercel.app/api/card?username=Dark_ZID&theme=dark" 
-      alt="Ziad's Codeforces States." 
-    />
+    <img src="https://codeforces-stats-jet.vercel.app/api/card?username=Dark_ZID&theme=dark" alt="Ziad's Codeforces Stats" width="400" />
   </a>
-</p>
-
----
-
-### 📈 Codeforces Rating Graph
-<p align="center">
   <a href="https://codeforces.com/profile/Dark_ZID">
-    <img 
-      src="https://codeforces-stats-jet.vercel.app/api/graph?username=Dark_ZID&theme=dark" 
-      alt="Ziad's Codeforces Rating Graph." 
-    />
+    <img src="https://codeforces-stats-jet.vercel.app/api/graph?username=Dark_ZID&theme=dark" alt="Ziad's Codeforces Rating Graph" width="400" />
   </a>
-</p>
-
- 
+</div>
+<br>
+<div align="center">
+  <!-- LeetCode Stats -->
+  <a href="https://leetcode.com/Ziad_Yaseen/">
+    <img src="https://leetcard.jacoblin.cool/Ziad_Yaseen?theme=dark&font=Fira%20Code&ext=activity" alt="Ziad's LeetCode Stats" />
+  </a>
+</div>
 
 ---
 
 ### ⚡ Fun Facts
-- 🖥️ I love tweaking my OS with custom macOS themes and icons.
-- 🎮 When I'm not coding or solving problems, you might find me playing Yu-Gi-Oh! Master Duel.
+- 🖥️ I love tweaking my OS with custom macOS themes and icons to create the perfect development environment.
+- 🎮 When I'm not coding or debugging, you will probably find me playing *Yu-Gi-Oh! Master Duel* or brainstorming my next project idea.
 
 ---
 
-### 📫 Connect With Me
+### 📫 Let's Connect!
 
 <p align="center">
   <a href="mailto:ziadyaseen.dev@gmail.com">
